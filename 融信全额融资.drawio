@@ -4,90 +4,90 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="p33mTXCWpmtPviyPJqFd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-1" target="p33mTXCWpmtPviyPJqFd-2">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;textShadow=0;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-1" target="p33mTXCWpmtPviyPJqFd-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-1" value="&lt;font data-font-src=&quot;https://fonts.googleapis.com/css?family=Long+Cang&quot; style=&quot;font-size: 16px;&quot;&gt;创建融资申请&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fillColor=none;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-1" value="创建融资申请" style="ellipse;whiteSpace=wrap;html=1;hachureGap=4;fillColor=none;shadow=1;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="120" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-21" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-2" target="p33mTXCWpmtPviyPJqFd-13">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-21" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;endArrow=classic;textShadow=0;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-2" target="p33mTXCWpmtPviyPJqFd-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-36" value="前置业务逻辑保持原逻辑..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" connectable="0" parent="p33mTXCWpmtPviyPJqFd-21">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-36" value="前置业务逻辑保持原逻辑..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fillColor=none;textShadow=0;labelBackgroundColor=none;" vertex="1" connectable="0" parent="p33mTXCWpmtPviyPJqFd-21">
           <mxGeometry x="-0.1857" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-2" value="&lt;font style=&quot;font-size: 16px;&quot;&gt;选择融信&lt;/font&gt;" style="whiteSpace=wrap;html=1;fontFamily=Long Cang;fillColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-2" value="选择融信" style="whiteSpace=wrap;html=1;fillColor=none;hachureGap=4;textShadow=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="260" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-16" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-13" target="p33mTXCWpmtPviyPJqFd-15">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-16" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;endArrow=classic;textShadow=0;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-13" target="p33mTXCWpmtPviyPJqFd-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-17" value="非全额" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" connectable="0" parent="p33mTXCWpmtPviyPJqFd-16">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-17" value="非全额" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fillColor=none;textShadow=0;" vertex="1" connectable="0" parent="p33mTXCWpmtPviyPJqFd-16">
           <mxGeometry x="-0.1" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-19" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-13" target="p33mTXCWpmtPviyPJqFd-18">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-19" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;endArrow=classic;textShadow=0;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-13" target="p33mTXCWpmtPviyPJqFd-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-20" value="全额" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" connectable="0" parent="p33mTXCWpmtPviyPJqFd-19">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-20" value="全额" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fillColor=none;textShadow=0;" vertex="1" connectable="0" parent="p33mTXCWpmtPviyPJqFd-19">
           <mxGeometry x="-0.3286" y="-1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-13" value="依次处理每个融信" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Long Cang;fillColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;" vertex="1" parent="1">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-13" value="依次处理每个融信" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;hachureGap=4;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="390" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-29" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-15" target="p33mTXCWpmtPviyPJqFd-26">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-29" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;endArrow=classic;textShadow=0;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-15" target="p33mTXCWpmtPviyPJqFd-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-15" value="沿用原逻辑..." style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=Long Cang;fillColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;" vertex="1" parent="1">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-15" value="沿用原逻辑..." style="whiteSpace=wrap;html=1;fillColor=none;hachureGap=4;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="130" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-23" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-18" target="p33mTXCWpmtPviyPJqFd-24">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-23" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;textShadow=0;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-18" target="p33mTXCWpmtPviyPJqFd-24">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="530" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-27" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-18" target="p33mTXCWpmtPviyPJqFd-26">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-27" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;endArrow=classic;textShadow=0;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-18" target="p33mTXCWpmtPviyPJqFd-26">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-37" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" connectable="0" parent="p33mTXCWpmtPviyPJqFd-27">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-37" value="" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fillColor=none;textShadow=0;" vertex="1" connectable="0" parent="p33mTXCWpmtPviyPJqFd-27">
           <mxGeometry x="-0.2143" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-39" value="后置业务逻辑保持原逻辑..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontColor=default;labelBackgroundColor=default;fillColor=none;" vertex="1" connectable="0" parent="p33mTXCWpmtPviyPJqFd-27">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-39" value="后置业务逻辑保持原逻辑..." style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fillColor=none;textShadow=0;" vertex="1" connectable="0" parent="p33mTXCWpmtPviyPJqFd-27">
           <mxGeometry x="0.0143" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-18" value="不拆分融信" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=Long Cang;fillColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;" vertex="1" parent="1">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-18" value="不拆分融信" style="whiteSpace=wrap;html=1;fillColor=none;hachureGap=4;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-24" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;1、生成新的transfer与transferApplication&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2、与原cou建立关联关系&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;&lt;font color=&quot;#ff0000&quot;&gt;可能有影响的点&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;1、cou的assetTyp可能为CONTRACT&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;2、cou会与多个transfer存在关联关系&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;3、融资融信的流转路径图是否正确&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;4、首页统计数据是否正确&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;5、清分数据是否正确&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontColor=default;labelBackgroundColor=none;fillColor=none;size=23;" vertex="1" parent="1">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-24" value="1、生成新的transfer与transferApplication&#xa;2、与原cou建立关联关系&#xa;可能有影响的点&#xa;1、cou的assetTyp可能为CONTRACT&#xa;2、cou会与多个transfer存在关联关系&#xa;3、融资融信的流转路径图是否正确&#xa;4、首页统计数据是否正确&#xa;5、清分数据是否正确" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;hachureGap=4;strokeColor=default;align=center;verticalAlign=middle;fillColor=none;size=23;textShadow=0;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="480" width="280" height="180" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-32" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontColor=default;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-26" target="p33mTXCWpmtPviyPJqFd-31">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-32" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;endArrow=classic;textShadow=0;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-26" target="p33mTXCWpmtPviyPJqFd-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-33" value="同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontColor=default;labelBackgroundColor=none;fillColor=none;" vertex="1" connectable="0" parent="p33mTXCWpmtPviyPJqFd-32">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-33" value="同意" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];sketch=1;hachureGap=4;jiggle=2;curveFitting=1;strokeColor=default;fillColor=none;textShadow=0;" vertex="1" connectable="0" parent="p33mTXCWpmtPviyPJqFd-32">
           <mxGeometry x="-0.1571" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-35" value="拒绝" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Long Cang;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;fontSize=16;fontColor=default;labelBackgroundColor=none;endArrow=classic;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-26" target="p33mTXCWpmtPviyPJqFd-34">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-35" value="拒绝" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;hachureGap=4;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;endArrow=classic;textShadow=0;" edge="1" parent="1" source="p33mTXCWpmtPviyPJqFd-26" target="p33mTXCWpmtPviyPJqFd-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-26" value="审核" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;fontFamily=Long Cang;fillColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;" vertex="1" parent="1">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-26" value="审核" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;hachureGap=4;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="670" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-31" value="融信、融资、流转记录状态正确修改" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=Long Cang;fillColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;" vertex="1" parent="1">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-31" value="融信、融资、流转记录状态正确修改" style="whiteSpace=wrap;html=1;fillColor=none;hachureGap=4;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="320" y="820" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="p33mTXCWpmtPviyPJqFd-34" value="融信可用、状态正常" style="whiteSpace=wrap;html=1;fontSize=16;fontFamily=Long Cang;fillColor=none;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DLong%2BCang;" vertex="1" parent="1">
+        <mxCell id="p33mTXCWpmtPviyPJqFd-34" value="融信可用、状态正常" style="whiteSpace=wrap;html=1;fillColor=none;hachureGap=4;textShadow=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="680" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
